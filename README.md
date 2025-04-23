@@ -2,7 +2,7 @@
 
 Welcome to my implementation of the classic **2048 game** — built from scratch using **JavaScript**, **HTML5**, and **CSS3** with a fully responsive and polished UI.
 
-🎯 [**DEMO LINK**](https://Dominik-Dudek-code.github.io/js_2048_game/)
+🎯 [**DEMO LINK**](https://dominik-dudek-code.github.io/2048_game/)
 
 ---
 
@@ -48,7 +48,7 @@ The game combines creative UI handling with custom-built game logic and state ma
 
 ## 🧪 How to Run Locally
 
-- git clone https://github.com/Dominik-Dudek-code/js_2048_game.git
+- git clone https://github.com/Dominik-Dudek-code/2048_game.git
 - cd js_2048_game
 - npm install
 - npm start
